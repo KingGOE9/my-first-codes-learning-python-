@@ -15,5 +15,3 @@ while polling_active:
 print('\n')
 for name, location in dream_vacation.items():
       print(f'{name.title()} would love to visit {location.title()} on a dream vacation\n')
-
-

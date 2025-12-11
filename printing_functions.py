@@ -1,3 +1,5 @@
+"""Functions related to printing 3d models"""
+
 def print_models(unprinted_designs, completed_models):
     """
     Simulate printing each design, until none are left.

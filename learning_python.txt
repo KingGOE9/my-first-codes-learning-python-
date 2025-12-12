@@ -1,0 +1,4 @@
+In Python you can loop through data
+In Python you can model real word situations
+In Python you can store large amounts of data
+

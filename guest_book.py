@@ -1,6 +1,6 @@
 print('(Enter quit to exit)')
 while True:
-    guest_name = input('Please enter your name: ')
+    guest_name = input('\nPlease enter your name: ')
     if guest_name == 'quit':
         break
     else:
